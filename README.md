@@ -30,17 +30,17 @@
 ### VIDEO HƯỚNG DẪN LẬP TRÌNH
 
 ► Video hướng dẫn tự học Lập trình AutoIT căn bản
-- Tác giả: Trần Minh Đức
+- Tác giả: [Trần Minh Đức](https://fb.me/tmd18116)
  + [Hướng dẫn căn bản Lập trình AutoIT](http://goo.gl/11T4KK)
  + [Hướng dẫn sử dụng Cheat Engine để lập trình Auto Game](http://goo.gl/2WXeiO)
-- Tác giả: Hải Thế Lương
+- Tác giả: [Hải Thế Lương](https://fb.me/Skyfinally)
  + [AutoIT for Beginner](http://goo.gl/kejGZg)
 
-► Playlist khóa học AutoIT ở Udemy.com (Chia sẻ: Tùng Ngô)
+► Playlist khóa học AutoIT ở Udemy.com (Chia sẻ: [Tùng Ngô](https://fb.me/ngotung99))
 - [Playlist Youtube](https://www.youtube.com/playlist?list=PLsgdsGVTmcoppWjF0HNnItPXTVfTXtnv4)
 - [Link Download Google Drive](https://drive.google.com/file/d/0B8T8MEQIooPAMjNDMzJLLU0zb0E/view)
 
-► Video hướng dẫn Lập trình AutoIT nâng cao (Tác giả: Mạnh Tuấn)
+► Video hướng dẫn Lập trình AutoIT nâng cao (Tác giả: [Mạnh Tuấn](https://fb.me/manhtuan1412))
 - [Playlist tổng hợp](http://goo.gl/47X9JR) ([Theo dõi](http://goo.gl/J92rsc))
 - [Blog cá nhân](https://junookyo.blogspot.com/search/label/AutoIT)
 
