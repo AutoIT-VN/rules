@@ -55,25 +55,42 @@
 
 ☀ Liên kết:
 
-- Fanpage AutoIT Việt
-- Trang chủ AutoIT
-- Forum AutoIT English
-- Forum AutoIT Việt
-- Blog AutoIT Việt
-- Group AutoIT Việt
-- Awesome AutoIt
+- [Fanpage AutoIT Việt][1]
+- [Trang chủ AutoIT][2]
+- [Forum AutoIT English][3]
+- [Forum AutoIT Việt][4]
+- [Blog AutoIT Việt][5]
+- [Group AutoIT Việt][6]
+- [Awesome AutoIt][7]
+
+[1]: https://www.facebook.com/AutoItScript
+[2]: http://autoitscript.com/
+[3]: http://autoitscript.com/forum
+[4]: http://autoitvn.com/
+[5]: http://yagarai.blogspot.com/search/label/Autoit
+[6]: http://facebook.com/groups/autoitscript
+[7]: https://github.com/J2TeaM/awesome-AutoIt
 
 ☀ Cài đặt:
 
-- Cài đặt AutoIT: AutoIt Full Installation
-- Cài đặt AutoIt Script Editor: SciTE4AutoIt3
-- IDE AutoIT chuyên nghiệp: ISN AutoIt Studio 
+- Cài đặt AutoIT: [AutoIt Full Installation][1]
+- Cài đặt AutoIt Script Editor: [SciTE4AutoIt3][2]
+- IDE AutoIT chuyên nghiệp: [ISN AutoIt Studio][3]
+
+[1]: http://www.autoitscript.com/files/autoit3/autoit-v3-setup.exe
+[2]: http://www.autoitscript.com/autoit3/scite/download/SciTE4AutoIt3.exe
+[3]: http://www.isnetwork.at/index.php/2011-10-17-08-51-43?download=8%5Cu00253Aisn-autoit-studio-098-beta-installer
 
 ☀ Tra cứu ngôn ngữ AutoIT:
-- Tra cứu offline
-- Tra cứu trên web
-- Tra cứu trên Android
-- Tài liệu AutoIT tiếng Việt
+- [Tra cứu offline][1]
+- [Tra cứu trên web][2]
+- [Tra cứu trên Android][3]
+- [Tài liệu AutoIT tiếng Việt][4]
+
+[1]: https://dl.dropboxusercontent.com/u/55630051/AutoIt.chm
+[2]: https://www.autoitscript.com/autoit3/docs/
+[3]: https://dl.dropboxusercontent.com/u/59972213/Autoit/AutoITFunctionLookup.apk
+[4]: http://tinyurl.com/chuyendeAutoIT
 
 ☀ Một số điểm cần lưu ý khi lập trình AutoIt:
 - Mã nguồn trong ngôn ngữ AutoIT được thực thi từng dòng một (Line-By-Line), chương trình sẽ ngừng thực thi cho đến khi gặp dòng lỗi phát sinh.
